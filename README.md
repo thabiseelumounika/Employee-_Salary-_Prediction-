@@ -12,6 +12,11 @@ Real-time user input
 
 Python, Streamlit, Pandas, Scikit-learn
 
+🤖 Machine Learning Models
+
+Linear Regression (baseline model)
+Random Forest Regression ⭐ (final model used)
+
 ⚙️ Run Project
 
 pip install -r requirements.txt
